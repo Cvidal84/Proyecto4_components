@@ -12,49 +12,49 @@ const data = {
         university: "Almadrava Official Institute",
         location: "Benidorm, Spain",
         graduationYear: 2003,
-        image: "./public/images/finanzas.jpg"
+        image: "/images/finanzas.jpg"
       },
       {
         degree: "Higher Technician in Web Application Development (DAW)",
         university: "Prometeo by The Power",
         location: "Madrid, Spain",
         graduationYear: "Ongoing since 2024",
-        image: "./public/images/thepower.png"
+        image: "/images/thepower.png"
       },
       {
         degree: "Full Stack Web Development Master's Program",
         university: "Prometeo by The Power",
         location: "Madrid, Spain",
         graduationYear: "Ongoing since 2024",
-        image: "./public/images/fullstack.png"
+        image: "/images/fullstack.png"
       },
       {
         degree: "CorelDraw Design Course",
         university: "RCInformática",
         location: "Callosa d'en Sarrià, Spain",
         graduationYear: 2015,
-        image: "./public/images/corel.png"
+        image: "/images/corel.png"
       },
       {
         degree: "Applied Accounting for Business",
         university: "RCInformática",
         location: "Callosa d'en Sarrià, Spain",
         graduationYear: 2020,
-        image: "./public/images/contabilidad.jpeg"
+        image: "/images/contabilidad.jpeg"
       },
       {
         degree: "Microsoft Word Course",
         university: "RCInformática",
         location: "Callosa d'en Sarrià, Spain",
         graduationYear: 2019,
-        image: "./public/images/word.jpg"
+        image: "/images/word.jpg"
       },
       {
         degree: "Microsoft Excel Course",
         university: "RCInformática",
         location: "Callosa d'en Sarrià, Spain",
         graduationYear: 2022,
-        image: "./public/images/excel.jpg"
+        image: "/images/excel.jpg"
       },
     ],
 
