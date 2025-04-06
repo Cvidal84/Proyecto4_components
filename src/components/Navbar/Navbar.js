@@ -17,7 +17,7 @@ export const changeTheme = () => {
 
 export const Navbar = () => `
 <nav>
-<img src="./public/images/siglascarlos.png" alt="CarlosVidal">
+<img src="/images/siglascarlos.png" alt="CarlosVidal">
 <ul>
     <li>
         <a href="#" id="homelink">Home</a>
