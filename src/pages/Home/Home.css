@@ -46,7 +46,7 @@
     margin: 0;
     text-align: center;
     text-shadow: 0 0 5px #fff,
-                 0 0 10px hsl(184, 95%, 50%),
+                 0 0 10px #00f0ff,
                  0 0 20px #00f0ff,
                  0 0 40px #00f0ff;
   }
@@ -149,6 +149,11 @@
     }
     .profile > img{
       width:280px;  
+    }
+    .aboutme > p {
+      padding-top: 20px;
+      padding: 0;
+      
     }
   }
   
