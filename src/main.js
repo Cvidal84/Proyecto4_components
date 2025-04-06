@@ -5,7 +5,7 @@ import { Footer } from './components/Footer/Footer';
 import { Home } from './pages/Home/Home';
 import { Projects } from './pages/Projects/Projects';
 import { linkPage } from './utils/linkPage';
-import { Educations } from './pages/Educations/Educations';
+import { Education } from './pages/Education/Education';
 
 
 
@@ -22,7 +22,7 @@ requestAnimationFrame(() => {
   
   linkPage("#homelink", Home);
   linkPage("#projectslink", Projects);
-  linkPage("#educationslink", Educations);
+  linkPage("#educationlink", Education);
 
   changeTheme();
   Home(); // Cargar la primera página

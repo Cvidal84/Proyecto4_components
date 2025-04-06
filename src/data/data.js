@@ -2,7 +2,7 @@ const data = {
   name: "Carlos Vidal Puigcerver",
   address: "Callosa d'en Sarrià, Alicante, Spain",
   email: "carlosvidalpuigcerver@gmail.com", 
-  avatar:"/images/Carlos.png", 
+  avatar:"/images/carlos.png", 
   aboutMe:
     "I'm Carlos Vidal, a passionate IT professional with over 13 years of experience as a computer science teacher at RCInformática. I'm responsible, hardworking, polite, and good at dealing with people. I love learning and improving every day in the world of technology. Currently, I'm studying a Higher Technician Degree in Web Application Development and a Full Stack Master's program.",
 

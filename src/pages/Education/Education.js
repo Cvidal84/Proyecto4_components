@@ -1,9 +1,9 @@
-import "./Educations.css";
+import "./Education.css";
 import { cleanPage } from "../../utils/cleanPage";
 import data from "../../data/data";
 import { EducationCard } from "../../components/EducationCard/EducationCard";
 
-export const Educations = () => {
+export const Education = () => {
   const main = document.querySelector("main");
   cleanPage(main);
 
