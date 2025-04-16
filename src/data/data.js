@@ -116,12 +116,28 @@ const data = {
       link: "https://practicadomgaleriadinamica.netlify.app",
     },
     {
+      title: "LocalStorage and XML-files, Save and Load.",
+      description: "This project is a simple web app to manage books. It allows users to add, edit, delete, save to XML, and load book data using local storage.",
+      image:"/images/library.png",
+      tech: ["HTML5", "CSS3", "JavaScript", "DOM", "Boostrap","XML"],
+      github: "https://github.com/Cvidal84/LibraryXML",
+      link: "https://libraryxml.netlify.app/",
+    },
+    {
       title: "Project 2 - Portfolio",
       description: "In this project, I have grouped all the projects so far and have tried to use all the knowledge I have up to date.",
       image:"/images/portfolio.png",
       tech: ["HTML5", "CSS3", "JavaScript", "DOM", "Vite"],
       github: "https://github.com/Cvidal84/Proyecto2_portfolio",
       link: "https://portfolio-carlos-vidal.netlify.app/",
+    },
+    {
+      title: "Fetch- Api Dragon Ball ",
+      description: "In this project, I fetch items from Dragon Ball API.",
+      image:"/images/dragon_ball.png",
+      tech: ["HTML5", "CSS3", "JavaScript", "DOM",],
+      github: "https://github.com/Cvidal84/Dragon_Ball",
+      link: "https://fetch-api-dragon-ball.netlify.app/",
     },
     {
       title: "Project 3 - Asynchronous Web ",
